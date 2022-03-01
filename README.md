@@ -6,3 +6,4 @@ Analyzes on these tweets have been made statisticly, graphically and using a hea
 To make it work this project, all content must be downloaded into same folder, and open Final.Rproj with R. From files area in the R studio; server, ui and  global folders must be clicked. Then run app to make it work. PS : needed to have all libraries included in global.R to be able to import them to use.
 
 
+The application has been deployed to https://mertkucukkuru.shinyapps.io/twitteranalyticsshiny/.
